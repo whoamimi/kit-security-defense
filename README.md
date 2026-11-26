@@ -1,6 +1,6 @@
 # Security: Defense Kit
 
-AI plugin toolkit providing cybersecurity tools and resources for securing operating system kernels across macOS, Unix and Linux environments.
+AI plugin providing cybersecurity tools and resources to secure webapp, localhosts, and operating system kernels across macOS, Unix and Linux environments.
 
 **Content**
 
